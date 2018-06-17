@@ -1,0 +1,11 @@
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\bin\Release\Labyrinth2D.exe.config
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\bin\Release\Labyrinth2D.exe
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\bin\Release\Labyrinth2D.pdb
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Release\Labyrinth2D.FormLevel1.resources
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Release\Labyrinth2D.FormLevel2.resources
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Release\Labyrinth2D.FormMenu.resources
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Release\Labyrinth2D.Properties.Resources.resources
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Release\Labyrinth2D.csproj.GenerateResource.cache
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Release\Labyrinth2D.csproj.CoreCompileInputs.cache
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Release\Labyrinth2D.exe
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Release\Labyrinth2D.pdb

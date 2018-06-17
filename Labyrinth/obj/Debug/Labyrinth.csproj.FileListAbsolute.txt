@@ -1,0 +1,10 @@
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csprojAssemblyReference.cache
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.cache
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.CoreCompileInputs.cache
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
+D:\MyProjects\Games\labyrinth\Labyrinth\Labyrinth\obj\Debug\Labyrinth.FormMenu.resources
